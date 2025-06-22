@@ -1,4 +1,4 @@
-# BakersfieldUHI
+# Bakersfield Urban Heat Island
 
 ## Goals
 
